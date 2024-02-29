@@ -2,7 +2,7 @@ repo_name: 2lambda123/GameNetworkingSockets
 report_id: a0e0abdae83ed902c22cd7d6dd2e3cfb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:40+00:00'
+timestamp: '2024-02-29T19:12:29+00:00'
 requested_by: 2lambda123
 provider: github
 branch: master
@@ -55,7 +55,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/GameNetworkingSockets
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
